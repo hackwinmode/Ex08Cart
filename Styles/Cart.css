@@ -1,0 +1,25 @@
+﻿/* The styles for the cart */
+#lstCart { 
+    height: 135px;
+    width: 300px;
+    margin-bottom: 1em;
+    float: left;
+    padding: .5em;
+}
+    #lstCart option {
+        margin-bottom: .25em;
+    }
+/* The styles for the buttons to the right of the cart */
+#btnRemove, #btnEmpty {
+    margin-left: 1em;
+}
+#btnRemove {
+    margin-bottom: 1em;
+}
+/* The styles for the div and buttons below the cart */
+#shopbuttons {
+    clear: both;
+}
+#btnContinue {
+    margin-right: 1em;
+}

@@ -1,0 +1,45 @@
+﻿#lblWelcome {
+    font-size: 125%;
+    margin-top: 1.5em;
+    color: orangered;
+}
+#ddlProducts {
+    margin-top: 1em;
+    width: 15em;
+}
+#productData {
+    padding: 1em 0;
+    width: 400px;
+    float: left;
+}
+#imgProduct {
+    float: left;
+    height: 200px;
+    padding: 1em 2em;
+}
+
+#lblName, #lblUnitPrice {
+    display: block;
+    font-size: 125%;
+    font-weight: bold;
+}
+#lblName, #lblShortDescription, #lblLongDescription {
+    display: block;
+    margin-bottom: 1em;
+}
+#lblLongDescription {
+    margin-bottom: 2em;
+}
+#lblUnitPrice {
+    margin-bottom: 2em;
+}
+#txtQuantity {
+    width: 5em;
+}
+#btnAdd {
+    margin-top: 1em;
+}
+#lblWelcome {
+    font-weight: bold;
+    color: orangered;
+}

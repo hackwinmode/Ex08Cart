@@ -1,0 +1,21 @@
+﻿/* The styles for the elements */
+h1 {
+    margin-bottom: .5em;
+    font-size: 200%;
+}
+h2 {
+    margin-bottom: .5em;
+}
+label {
+    float: left;
+    width: 10em;  
+}
+/* the styles for classes */
+.entry {
+    margin-left: 1em;
+    margin-bottom: .5em;
+    width: 10em;
+}
+.button {
+    margin-top: 1em;
+}
